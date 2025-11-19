@@ -1,0 +1,12 @@
+.card {
+  background: #ffffff;
+}
+
+input:focus {
+  box-shadow: 0 0 0 .2rem rgba(0, 0, 0, 0.1);
+}
+
+.table-row-custom:hover {
+  background: #f5f5f5 !important;
+  transition: 0.3s;
+}
