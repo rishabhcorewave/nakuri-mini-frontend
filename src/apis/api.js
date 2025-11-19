@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const baseURL = "http://localhost:8080/api"
+export const baseURL = "https://nakuri-mini-backend.onrender.com/api"
 
 export const Services = {
     register: `${baseURL}/register`,
